@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "coteva_database", "coteva_database\coteva_database.ssmssqlproj", "{C57B1909-A893-4578-BBE6-1BA390BF5543}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C57B1909-A893-4578-BBE6-1BA390BF5543}.Default|Default.ActiveCfg = Default
+		{EDAE9DD1-48B1-4361-BCC5-2EFE1B4F5C26}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FF7F8E1-3426-458B-92B9-68FB9A827857}
+	EndGlobalSection
+EndGlobal
